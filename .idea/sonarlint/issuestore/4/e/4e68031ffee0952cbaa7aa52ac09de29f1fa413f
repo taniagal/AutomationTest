@@ -1,0 +1,14 @@
+
+Fsquid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Û÷ãï¼-
+qsquid:S1450"SRemove the "vars" field and declare it as a local variable in the relevant methods.(Á‘¿¼8€ƒŸñ¼-
+Ksquid:S1068"-Remove this unused "producto3" private field.(Ç¤ú÷8ÑÅÙñ¼-
+dsquid:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Û÷ãï¼-
+Fsquid:S1068"(Remove this unused "vars" private field.(Á‘¿¼8€ƒŸñ¼-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¿Ìøÿÿÿÿ8Û÷ãï¼-
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Û÷ãï¼-
+Psquid:S1068"-Remove this unused "producto1" private field.(‘’İùÿÿÿÿ8€ƒŸñ¼-
+hsquid:S1192<"JDefine a constant instead of duplicating this literal ".new-todo" 6 times.(õÚ¯“8Û÷ãï¼-
+hsquid:S1192("JDefine a constant instead of duplicating this literal "AngularJS" 3 times.(ÌÒï 8Û÷ãï¼-
+8squid:S1220""Move this file to a named package.8‹« ñ¼-
+dsquid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Û÷ãï¼-
+Ksquid:S1068"-Remove this unused "producto2" private field.(«»¢ü8€ƒŸñ¼-
